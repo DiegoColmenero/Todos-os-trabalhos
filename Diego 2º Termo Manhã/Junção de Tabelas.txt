@@ -1,0 +1,4 @@
+SELECT Artistas.*, EstilosMusicais.Nome
+	FROM Artistas
+	FULL JOIN EstilosMusicais
+	ON Artistas.IdEstilosMusicais = EstilosMusicais.IdEstilosMusicais;

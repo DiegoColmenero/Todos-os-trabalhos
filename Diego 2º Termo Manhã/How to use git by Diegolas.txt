@@ -1,0 +1,9 @@
+git clone (link do repositorio)
+git cd (TAB)
+git add *
+git status
+git commit -m "Nome da versao"
+git push 
+
+
+
